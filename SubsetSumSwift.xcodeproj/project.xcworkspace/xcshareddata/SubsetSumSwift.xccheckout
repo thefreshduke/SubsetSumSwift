@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>60416609-5C63-4175-B846-7C10E0004581</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SubsetSumSwift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ABE6BECF6C0F16ACBB67257214B2F6A8C3B325C6</key>
+		<string>github.com:thefreshduke/SubsetSumSwift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SubsetSumSwift.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ABE6BECF6C0F16ACBB67257214B2F6A8C3B325C6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:thefreshduke/SubsetSumSwift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ABE6BECF6C0F16ACBB67257214B2F6A8C3B325C6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ABE6BECF6C0F16ACBB67257214B2F6A8C3B325C6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SubsetSumSwift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
