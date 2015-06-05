@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8896E9E6-C0C3-48AA-B35A-1AF00FC8AF7C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D27DA07EF51228F9A56B7132FAF1C276F3C6E1B3</key>
+		<string>github.com:thefreshduke/TimbermanClone.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TimberClone.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D27DA07EF51228F9A56B7132FAF1C276F3C6E1B3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:thefreshduke/TimbermanClone.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D27DA07EF51228F9A56B7132FAF1C276F3C6E1B3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D27DA07EF51228F9A56B7132FAF1C276F3C6E1B3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TimberClone.spritebuilder</string>
+		</dict>
+	</array>
+</dict>
+</plist>
