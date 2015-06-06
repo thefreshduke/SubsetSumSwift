@@ -1,5 +1,5 @@
 //
-//  MainScene.swift
+//  SubsetSumSwift.swift
 //  SubsetSumSwift
 //
 //  Created by Scotty Shaw on 6/6/15.
@@ -8,7 +8,7 @@
 
 import Foundation
 
-class MainScene : CCNode {
+class SubsetSumSwift : CCNode {
     
     func didLoadFromCCB () {
         mainMethod()
