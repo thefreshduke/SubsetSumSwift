@@ -37,7 +37,7 @@ class SubsetSumSwift : CCNode {
         println("START")
         println()
         
-        // recursive programming; runtime(n^2)
+        // recursive programming; runtime O(n^2)
         let isTargetTheSumOfAnySubset : Bool = checkForTargetInAllSubsets(populations, 0, target, [Int]())
         
         // dynamic programming; runtime O(nk)
@@ -55,7 +55,7 @@ class SubsetSumSwift : CCNode {
         println()
     }
     
-    // recursive programming; runtime(n^2)
+    // recursive programming; runtime O(n^2)
     func checkForTargetInAllSubsets (a : [Int], _ n : Int, _ target : Int, _ subset : [Int]) -> Bool {
         
         // the sum of this combination is equal to target
